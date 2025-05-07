@@ -1,0 +1,101 @@
+"""
+In the previous step, we extracted raw skill terms from module descriptions.
+Your task now is to normalize these terms to maintain consistent terminology.
+You are provided with a list of extracted raw skills that may vary in wording or specificity.
+Your task is to replace each extracted skill with the most appropriate **canonical skill name** from the list provided.
+Choose the closest match in meaning. If there is no suitable match, return the original skill.
+
+Your task is to:
+1. Group synonymous terms (e.g. "машинное обучение" and "ML алгоритмы", "Pyhon" and "Python продвинутый уровень",
+"PostgreSQL" and "SQL" and "ms SQL")
+2. Select the most canonical form for each skill.
+3. Keep only domain-relevant terms (remove generic verbs)
+4. Try not to repeat one skill within one module name if you change the canonical skill name
+(e.g. there was mentioned "python" and "python продвинутый уровень", keep only "python")
+
+Here are some examples of previously extracted skills with imprecise names and corresponding corrected outputs:
+
+
+<example>
+Input:
+[{
+  "Module_name": "Архитектура программного обеспечения",
+  "Description": null,
+  "Аннотация модуля": "методы и технологии параллельных вычислений,
+   "анализ данных",
+   "математическое моделирование",
+   "архитектуры параллельных вычислительных систем",
+   "технологии многопоточного программирования",
+   "технологии программирования для распределенных вычислительных систем",
+   "технологии программирования GPU",
+   "PostgreSQL"
+},
+{'Module_name': 'Большие данные и искусственный интеллект',
+  'Description': None,
+  'Аннотация модуля': ['глубокие нейронные сети',
+   'компьютерное зрение',
+   'анализ текстов',
+   'модель искусственного нейрона',
+   'обучение нейронных сетей',
+   'сверточные нейронные сети',
+   'LSTM',
+   'GRU',
+   'Python',
+   'TensorFlow',
+   'Keras',
+   'распознавание моделей одежды',
+   'классификация объектов',
+   'анализ тональности текстов',
+   'автоматическая генерация текста',
+   'Google Colaboratory',
+   'хранение данных',
+   'базы данных',
+   'OLAP',
+   'Spark',
+   'kafka',
+   'Flink',
+   'MapReduce',
+   'Hadoop',
+   'секционирование',
+   'сегментирование',
+   'перемешивание',
+   'микросервисная архитектура',
+   'kubernetes']},
+
+Output:
+[{
+  "Module_name": "Архитектура программного обеспечения",
+  "Description": null,
+  "Аннотация модуля":
+   "анализ данных",
+   "математическое моделирование",
+   "параллельные вычислительные системы",
+   "многопоточное программирование",
+   "распределенные вычислительные системы",
+   "SQL"
+},
+{'Module_name': 'Большие данные и искусственный интеллект',
+  'Description': None,
+  'Аннотация модуля':
+   'глубокие нейронные сети',
+   'компьютерное зрение',
+   'анализ текстов',
+   'сверточные нейронные сети',
+   'LSTM',
+   'GRU',
+   'Python',
+   'TensorFlow',
+   'Keras',
+   'распознавание изображений',
+   'классификация объектов',
+   'анализ тональности текстов',
+   'автоматическая генерация текста',
+   'базы данных',
+   'OLAP',
+   'Spark',
+   'kafka',
+   'Flink',
+   'MapReduce',
+   'Hadoop',
+   'kubernetes']},
+"""
