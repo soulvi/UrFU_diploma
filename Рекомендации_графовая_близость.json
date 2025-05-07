@@ -1,0 +1,262 @@
+[
+  {
+    "UncoveredSkill": "javascript",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Программирование и алгоритмизация на Javascript. Часть 1",
+        "CourseLink": "https://openedu.ru/course/spbstu/PAJS/?session=spring_2025",
+        "GraphSimilarity": 0.999999999999996
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "api",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Веб-программирование",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_webprogr/?session=spring_2025",
+        "GraphSimilarity": 0.999999999999994
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "excel",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Работа в издательской системе LaTeX. Подготовка научных текстов с использованием специализированного программного обеспечения. Часть 1",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_rvisLaTeX/?session=spring_2025",
+        "GraphSimilarity": 0.999999999999994
+      },
+      {
+        "CourseTitle": "Работа в издательской системе LaTeX. Подготовка научных текстов с использованием специализированного программного обеспечения. Часть 2",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_rvisLaTeX2/?session=spring_2025",
+        "GraphSimilarity": 0.999999999999994
+      },
+      {
+        "CourseTitle": "Комплекс инструментов для бизнес-анализа. MS Excel.",
+        "CourseLink": "https://openedu.ru/course/misis/EXL/?session=spring_2025",
+        "GraphSimilarity": 0.999999999999994
+      },
+      {
+        "CourseTitle": "Введение в анализ данных сайтов",
+        "CourseLink": "https://openedu.ru/course/spbu/SITE_ANALYS/?session=spring_2021",
+        "GraphSimilarity": 0.999999999999994
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "язык программирования r",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Анализ текстовых данных",
+        "CourseLink": "https://openedu.ru/course/hse/TEXT/?session=2022",
+        "GraphSimilarity": 0.9999999999998975
+      },
+      {
+        "CourseTitle": "Знакомство с R и базовая статистика",
+        "CourseLink": "https://openedu.ru/course/spbu/STATIK/?session=summer_2022",
+        "GraphSimilarity": 0.9999999999998975
+      },
+      {
+        "CourseTitle": "Линейная регрессия",
+        "CourseLink": "https://openedu.ru/course/spbu/STATIK2/?session=summer_2022",
+        "GraphSimilarity": 0.9999999999998975
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "power bi",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Практики создания аналитических панелей с помощью BI-платформ",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS4/?session=self_paced_2024",
+        "GraphSimilarity": 0.9998224707107766
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "etl",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Практики работы с ETL-инструментами на бизнес-уровне",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS3/?session=self_paced_2024",
+        "GraphSimilarity": 0.9973531345148784
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "большие данные",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Обработка больших данных",
+        "CourseLink": "https://openedu.ru/course/hse/big_data_processing/?session=2022",
+        "GraphSimilarity": 0.9924423045802194
+      },
+      {
+        "CourseTitle": "R для лингвистов: программирование и анализ данных",
+        "CourseLink": "https://openedu.ru/course/hse/RLING/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Машинное обучение на больших данных",
+        "CourseLink": "https://openedu.ru/course/hse/machine_learning_big_data/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Инженерия данных и Data mining",
+        "CourseLink": "https://openedu.ru/course/mephi/data_mining/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Алгоритмы и структуры данных-1",
+        "CourseLink": "https://openedu.ru/course/hse/ADS_1/?session=2023",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Анализ инвестиционных проектов и программ",
+        "CourseLink": "https://openedu.ru/course/hse/AIPP/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Digitalization in International Relations",
+        "CourseLink": "https://openedu.ru/course/spbu/DIGITAL_ENG/?session=spring_2023",
+        "GraphSimilarity": 0.9924423045802194
+      },
+      {
+        "CourseTitle": "Цифровая грамотность для инженерных и технических направлений",
+        "CourseLink": "https://openedu.ru/course/hse/DIGLIT_4/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Python для извлечения и обработки данных",
+        "CourseLink": "https://openedu.ru/course/hse/PYTHON/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Качественные методы в социологическом исследовании",
+        "CourseLink": "https://openedu.ru/course/hse/QUALSOC/?session=2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Математические и инструментальные методы машинного обучения. Часть 1",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_011_machinelearning/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Язык программирования C++. Часть 1. Процедурное программирование",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_pro/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Машинное обучение и искусственный интеллект",
+        "CourseLink": "https://openedu.ru/course/misis/MLRN/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Методы исследования в менеджменте",
+        "CourseLink": "https://openedu.ru/course/msu/METHODSMANAGMENT/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Наука о данных и аналитика больших объемов данных",
+        "CourseLink": "https://openedu.ru/course/spbstu/BIGDATA/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Общая теория связи. Вероятностные модели сигналов и систем",
+        "CourseLink": "https://openedu.ru/course/spbstu/GTCOM/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Информационные технологии в природоохранной деятельности",
+        "CourseLink": "https://openedu.ru/course/spbstu/ITEA/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Искусство налогового планирования",
+        "CourseLink": "https://openedu.ru/course/spbu/ARTTAX/?session=spring_2021",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Бухгалтерский учет и аудит: основы",
+        "CourseLink": "https://openedu.ru/course/spbu/BUXUCHET/?session=summer_2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Как выделиться на переполненном рынке",
+        "CourseLink": "https://openedu.ru/course/spbu/CRWMRT/?session=self_paced_2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Эконометрика: анализ временных рядов",
+        "CourseLink": "https://openedu.ru/course/spbu/ECONOMETRICS/?session=spring_2022",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Практики оперативной аналитики",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS1/?session=self_paced_2024",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "География населения мира. Часть 1",
+        "CourseLink": "https://openedu.ru/course/spbu/GEONAS1/?session=self_paced_2021",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Физиология сердца и его дисфункции",
+        "CourseLink": "https://openedu.ru/course/spbu/PHYHEART/?session=spring_2021",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Искусство продаж",
+        "CourseLink": "https://openedu.ru/course/spbu/SALE/?session=spring_2021",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Правила и структура написания студенческой научной работы: естественно-научные исследования",
+        "CourseLink": "https://openedu.ru/course/spbu/SCIPAPER_SCIENCE/?session=self_paced_2024",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Правила и структура написания студенческой научной работы: социальные исследования",
+        "CourseLink": "https://openedu.ru/course/spbu/SCIPAPER_SOCIAL/?session=self_paced_2024",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Aerial Photography with UAV",
+        "CourseLink": "https://openedu.ru/course/spbu/UAV/?session=spring_2023",
+        "GraphSimilarity": 0.9799542079479561
+      },
+      {
+        "CourseTitle": "Теория вероятностей и математическая статистика для инженеров",
+        "CourseLink": "https://openedu.ru/course/urfu/TheorVer/?session=spring_2025",
+        "GraphSimilarity": 0.9799542079479561
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "a/b тесты",
+    "SortedCourses": [
+      {
+        "CourseTitle": "Аналитика технологических данных",
+        "CourseLink": "https://openedu.ru/course/stankin/ATD/?session=2025",
+        "GraphSimilarity": 0.9345856800228461
+      },
+      {
+        "CourseTitle": "Аналитическая химия. Часть 2. Инструментальные методы анализа",
+        "CourseLink": "https://openedu.ru/course/urfu/ANALYTCHEM2/?session=spring_2025",
+        "GraphSimilarity": 0.9158608300751031
+      },
+      {
+        "CourseTitle": "Теория клеточных автоматов",
+        "CourseLink": "https://openedu.ru/course/mephi/cel_auto/?session=spring_2025",
+        "GraphSimilarity": 0.908078017200663
+      },
+      {
+        "CourseTitle": "Математическая статистика и А‍/‍В тестирование",
+        "CourseLink": "https://openedu.ru/course/hse/MATHSTAT_spec/?session=2023",
+        "GraphSimilarity": 0.8774160505901238
+      }
+    ]
+  }
+]
