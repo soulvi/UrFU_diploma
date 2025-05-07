@@ -1,0 +1,21 @@
+"""
+In the previous step, we extracted raw competences from 3 sourses of data - vacancies, online courses, education program
+by developing dictionaries for each of the seperately.
+Your task now is to create unified normalized dictionary for the terms to maintain consistent terminology
+and make it easier to use semantic simmilarity on graph.
+You are provided with 3 dictionaries with competencies where the key is
+Your task is to replace each extracted skill with the most appropriate **canonical skill name** from the list provided.
+Choose the closest match in meaning. If there is no suitable match, return the original skill.
+Be carefull, there is quite often no good synonim for concrete skill.
+Imagine that you will use prepared canonical skill names for making a recommendation based on semantic simmilarity
+in graphs for 3 types of data.
+
+Your task is to:
+1. Group synonymous terms (e.g. "машинное обучение" and "ML алгоритмы", "c" and "с++" and "язык программирования c",
+"менеджмент качества" and "принципы менеджмента качества")
+2. Select the most canonical form for each skill.
+3. Keep only domain-relevant terms (remove generic verbs)
+4. Try not to repeat one skill within one module name if you change the canonical skill name
+(e.g. there was mentioned "python" and "python продвинутый уровень", keep only "python")
+
+Return the updated JSON file. Show examples of your changes in the chat
