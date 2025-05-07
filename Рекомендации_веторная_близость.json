@@ -1,0 +1,340 @@
+[
+  {
+    "UncoveredSkill": "a/b тесты",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "a/b тесты",
+        "CourseLink": "https://openedu.ru/course/stankin/ATD/?session=2025",
+        "CosineSimilarity": 0.9999999999999291,
+        "CourseTitle": "Аналитика технологических данных"
+      },
+      {
+        "CourseCompetence": "тестирование по",
+        "CourseLink": "https://openedu.ru/course/mephi/cel_auto/?session=spring_2025",
+        "CosineSimilarity": 0.8463844489792369,
+        "CourseTitle": "Теория клеточных автоматов"
+      },
+      {
+        "CourseCompetence": "стандартные испытания",
+        "CourseLink": "https://openedu.ru/course/urfu/ANALYTCHEM2/?session=spring_2025",
+        "CosineSimilarity": 0.8225855053938569,
+        "CourseTitle": "Аналитическая химия. Часть 2. Инструментальные методы анализа"
+      },
+      {
+        "CourseCompetence": "математика, a/b тесты",
+        "CourseLink": "https://openedu.ru/course/hse/MATHSTAT_spec/?session=2023",
+        "CosineSimilarity": 0.8162803368923109,
+        "CourseTitle": "Математическая статистика и А‍/‍В тестирование"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "api",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "api",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_webprogr/?session=spring_2025",
+        "CosineSimilarity": 0.999999999999951,
+        "CourseTitle": "Веб-программирование"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "docker scikit learn",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "scikit learn",
+        "CourseLink": "https://openedu.ru/course/stankin/ATD/?session=2025",
+        "CosineSimilarity": 0.8805231205528834,
+        "CourseTitle": "Аналитика технологических данных"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "etl",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "etl",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS3/?session=self_paced_2024",
+        "CosineSimilarity": 0.9999999999998852,
+        "CourseTitle": "Практики работы с ETL-инструментами на бизнес-уровне"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "excel",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "excel",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_rvisLaTeX/?session=spring_2025",
+        "CosineSimilarity": 0.9999999999998244,
+        "CourseTitle": "Работа в издательской системе LaTeX. Подготовка научных текстов с использованием специализированного программного обеспечения. Часть 1"
+      },
+      {
+        "CourseCompetence": "excel",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_rvisLaTeX2/?session=spring_2025",
+        "CosineSimilarity": 0.9999999999998244,
+        "CourseTitle": "Работа в издательской системе LaTeX. Подготовка научных текстов с использованием специализированного программного обеспечения. Часть 2"
+      },
+      {
+        "CourseCompetence": "excel",
+        "CourseLink": "https://openedu.ru/course/misis/EXL/?session=spring_2025",
+        "CosineSimilarity": 0.9999999999998244,
+        "CourseTitle": "Комплекс инструментов для бизнес-анализа. MS Excel."
+      },
+      {
+        "CourseCompetence": "excel",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS3/?session=self_paced_2024",
+        "CosineSimilarity": 0.9999999999998244,
+        "CourseTitle": "Практики работы с ETL-инструментами на бизнес-уровне"
+      },
+      {
+        "CourseCompetence": "excel",
+        "CourseLink": "https://openedu.ru/course/spbu/SITE_ANALYS/?session=spring_2021",
+        "CosineSimilarity": 0.9999999999998244,
+        "CourseTitle": "Введение в анализ данных сайтов"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "javascript",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "синтаксис javascript",
+        "CourseLink": "https://openedu.ru/course/spbstu/PAJS/?session=spring_2025",
+        "CosineSimilarity": 0.8746068757521592,
+        "CourseTitle": "Программирование и алгоритмизация на Javascript. Часть 1"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "numpy",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "numpy",
+        "CourseLink": "https://openedu.ru/course/stankin/ATD/?session=2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Аналитика технологических данных"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "power bi",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "power bi",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS4/?session=self_paced_2024",
+        "CosineSimilarity": 0.9999999999999062,
+        "CourseTitle": "Практики создания аналитических панелей с помощью BI-платформ"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "большие данные",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/ADS_1/?session=2023",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Алгоритмы и структуры данных-1"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/PYTHON/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Python для извлечения и обработки данных"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/RLING/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "R для лингвистов: программирование и анализ данных"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/big_data_processing/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Обработка больших данных"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/machine_learning_big_data/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Машинное обучение на больших данных"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/mephi/data_mining/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Инженерия данных и Data mining"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_011_machinelearning/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Математические и инструментальные методы машинного обучения. Часть 1"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/mephi/mephi_pro/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Язык программирования C++. Часть 1. Процедурное программирование"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/misis/MLRN/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Машинное обучение и искусственный интеллект"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/msu/METHODSMANAGMENT/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Методы исследования в менеджменте"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbstu/BIGDATA/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Наука о данных и аналитика больших объемов данных"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbstu/GTCOM/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Общая теория связи. Вероятностные модели сигналов и систем"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/AIPP/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Анализ инвестиционных проектов и программ"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/DIGLIT_4/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Цифровая грамотность для инженерных и технических направлений"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/hse/QUALSOC/?session=2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Качественные методы в социологическом исследовании"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbstu/ITEA/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Информационные технологии в природоохранной деятельности"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/ARTTAX/?session=spring_2021",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Искусство налогового планирования"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/BUXUCHET/?session=summer_2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Бухгалтерский учет и аудит: основы"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/CRWMRT/?session=self_paced_2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Как выделиться на переполненном рынке"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/ECONOMETRICS/?session=spring_2022",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Эконометрика: анализ временных рядов"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/ECON_ANALYS1/?session=self_paced_2024",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Практики оперативной аналитики"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/GEONAS1/?session=self_paced_2021",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "География населения мира. Часть 1"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/PHYHEART/?session=spring_2021",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Физиология сердца и его дисфункции"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/SALE/?session=spring_2021",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Искусство продаж"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/SCIPAPER_SCIENCE/?session=self_paced_2024",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Правила и структура написания студенческой научной работы: естественно-научные исследования"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/SCIPAPER_SOCIAL/?session=self_paced_2024",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Правила и структура написания студенческой научной работы: социальные исследования"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/spbu/UAV/?session=spring_2023",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Aerial Photography with UAV"
+      },
+      {
+        "CourseCompetence": "большие данные",
+        "CourseLink": "https://openedu.ru/course/urfu/TheorVer/?session=spring_2025",
+        "CosineSimilarity": 1.0,
+        "CourseTitle": "Теория вероятностей и математическая статистика для инженеров"
+      },
+      {
+        "CourseCompetence": "big data analysis",
+        "CourseLink": "https://openedu.ru/course/spbu/DIGITAL_ENG/?session=spring_2023",
+        "CosineSimilarity": 0.8813826408695494,
+        "CourseTitle": "Digitalization in International Relations"
+      }
+    ]
+  },
+  {
+    "UncoveredSkill": "язык программирования r",
+    "SortedCourses": [
+      {
+        "CourseCompetence": "язык программирования r",
+        "CourseLink": "https://openedu.ru/course/hse/RLING/?session=2022",
+        "CosineSimilarity": 0.9999999999999438,
+        "CourseTitle": "R для лингвистов: программирование и анализ данных"
+      },
+      {
+        "CourseCompetence": "язык программирования r",
+        "CourseLink": "https://openedu.ru/course/hse/TEXT/?session=2022",
+        "CosineSimilarity": 0.9999999999999438,
+        "CourseTitle": "Анализ текстовых данных"
+      },
+      {
+        "CourseCompetence": "язык программирования r",
+        "CourseLink": "https://openedu.ru/course/spbu/STATIK/?session=summer_2022",
+        "CosineSimilarity": 0.9999999999999438,
+        "CourseTitle": "Знакомство с R и базовая статистика"
+      },
+      {
+        "CourseCompetence": "язык программирования r",
+        "CourseLink": "https://openedu.ru/course/spbu/STATIK2/?session=summer_2022",
+        "CosineSimilarity": 0.9999999999999438,
+        "CourseTitle": "Линейная регрессия"
+      }
+    ]
+  }
+]
